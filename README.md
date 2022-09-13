@@ -185,26 +185,6 @@ Built-in feature from Next.js:
 - 💨 Live reload
 - ✅ Cache busting
 
-### Philosophy
-
-- Minimal code
-- SEO-friendly
-- 🚀 Production-ready
-
-### Nextless.js SaaS Boilerplate
-
-Build your SaaS product faster with [React SaaS Boilerplate](https://nextlessjs.com).
-
-[![React SaaS Boilerplate Next.js](https://creativedesignsguru.com/assets/images/themes/next-js-saas-starter-kit.jpg)](https://nextlessjs.com)
-
-### Premium Themes
-
-| [Green Nextjs Landing Page Template](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/)                                                                                                   | [Purple Saas Nextjs Theme](https://creativedesignsguru.com/landing-purple-modern-react-theme/)                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Green Nextjs Landing Page Template](https://creativedesignsguru.com/assets/images/themes/landing-green-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/) | [![Blue Landing Page Nextjs Theme](https://creativedesignsguru.com/assets/images/themes/landing-blue-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-blue-modern-react-theme/) |
-
-Find more [Nextjs Themes](https://creativedesignsguru.com/category/nextjs/).
-
 ### Requirements
 
 - Node.js 14+ and npm
@@ -214,7 +194,7 @@ Find more [Nextjs Themes](https://creativedesignsguru.com/category/nextjs/).
 Run the following command on your local environment:
 
 ```shell
-git clone --depth=1 https://github.com/ixartz/Next-js-Boilerplate.git my-project-name
+git clone  https://github.com/insurerity-team/nic-ccms-client my-project-name
 cd my-project-name
 npm install
 ```
@@ -282,13 +262,13 @@ All tests are colocated with the source code inside the same directory. So, it m
 
 Clone this repository on own GitHub account and deploy to Netlify:
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-js-Boilerplate)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/insurerity-team/nic-ccms-client)
 
 ### Deploy to Vercel
 
 Deploy this Next JS Boilerplate on Vercel in one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fixartz%2FNext-js-Boilerplate)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Finsurerity-team%2nic-ccms-client)
 
 ### VSCode information (optional)
 
@@ -298,18 +278,8 @@ With the plugins installed on your VSCode, ESLint and Prettier can automatically
 
 Pro tips: if you need a project wide type checking with TypeScript, you can run a build with <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> on Mac.
 
-### Contributions
-
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
-
 ### License
 
 Licensed under the MIT License, Copyright © 2022
 
 See [LICENSE](LICENSE) for more information.
-
----
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
-[![React SaaS Boilerplate](https://creativedesignsguru.com/assets/images/themes/next-js-saas-starter-kit.jpg)](https://nextlessjs.com)
