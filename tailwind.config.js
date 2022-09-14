@@ -1,3 +1,6 @@
+/* eslint-disable global-require */
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable prettier/prettier */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
@@ -39,7 +42,11 @@ module.exports = {
           900: '#2a4365',
         },
       },
+      fontFamily: {
+        heading: ['Raleway'],
+        body: ['"Open Sans"'],
+      },
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/forms'), require('@tailwindcss/line-clamp')],
 };
