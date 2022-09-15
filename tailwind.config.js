@@ -44,7 +44,8 @@ module.exports = {
       },
       fontFamily: {
         heading: ['Raleway'],
-        body: ['"Open Sans"'],
+        body: ['Open Sans'],
+        alt: ['"IBM Plex Mono"'],
       },
     },
   },
